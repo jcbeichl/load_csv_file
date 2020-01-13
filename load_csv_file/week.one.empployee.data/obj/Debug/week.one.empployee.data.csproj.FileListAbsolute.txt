@@ -1,0 +1,20 @@
+C:\Users\Chris\source\repos\week.one.employee.data\week.one.empployee.data\bin\Debug\week.one.empployee.data.exe.config
+C:\Users\Chris\source\repos\week.one.employee.data\week.one.empployee.data\bin\Debug\week.one.empployee.data.exe
+C:\Users\Chris\source\repos\week.one.employee.data\week.one.empployee.data\bin\Debug\week.one.empployee.data.pdb
+C:\Users\Chris\source\repos\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.Form1.resources
+C:\Users\Chris\source\repos\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.Properties.Resources.resources
+C:\Users\Chris\source\repos\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.exe
+C:\Users\Chris\source\repos\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.pdb
+C:\Users\Chris\Desktop\School Work\POS409\week.one.beichler\week.one.employee.data\week.one.empployee.data\bin\Debug\week.one.empployee.data.exe.config
+C:\Users\Chris\Desktop\School Work\POS409\week.one.beichler\week.one.employee.data\week.one.empployee.data\bin\Debug\week.one.empployee.data.exe
+C:\Users\Chris\Desktop\School Work\POS409\week.one.beichler\week.one.employee.data\week.one.empployee.data\bin\Debug\week.one.empployee.data.pdb
+C:\Users\Chris\Desktop\School Work\POS409\week.one.beichler\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\School Work\POS409\week.one.beichler\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.Form1.resources
+C:\Users\Chris\Desktop\School Work\POS409\week.one.beichler\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.Properties.Resources.resources
+C:\Users\Chris\Desktop\School Work\POS409\week.one.beichler\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\School Work\POS409\week.one.beichler\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\School Work\POS409\week.one.beichler\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.exe
+C:\Users\Chris\Desktop\School Work\POS409\week.one.beichler\week.one.employee.data\week.one.empployee.data\obj\Debug\week.one.empployee.data.pdb
